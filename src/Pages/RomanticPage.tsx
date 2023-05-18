@@ -9,9 +9,9 @@ const RomanticPage: React.FC = () => {
     setShowPopup(true);
   };
 
-  const handlePopupClose = () => {
-    setShowPopup(false);
-  };
+  // const handlePopupClose = () => {
+  //   setShowPopup(false);
+  // };
 
   return (
     <div

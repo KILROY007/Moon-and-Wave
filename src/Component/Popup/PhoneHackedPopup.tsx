@@ -13,9 +13,9 @@ const PhoneHackedPopup: React.FC<PopupProps> = ({ question, options }) => {
     setShowPopup(true);
   };
 
-  const handlePopupClose = () => {
-    setShowPopup(false);
-  };
+  // const handlePopupClose = () => {
+  //   setShowPopup(false);
+  // };
 
   return (
     <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
