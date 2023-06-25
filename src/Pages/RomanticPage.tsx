@@ -32,7 +32,7 @@ const RomanticPage: React.FC = () => {
       </button>
       {showPopup && (
         <PhoneHackedPopup
-          question="Hahaha, You fell  for the tap 😂😂 Your phone has been hacked"
+          question="Hahaha, You fell  for the trap 😂 Your phone has been hacked"
           options={["Oh My god"]}
         />
       )}
